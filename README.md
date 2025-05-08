@@ -19,7 +19,7 @@ Airplane Simulator is a *2D flight simulation game* built using Python and Pygam
 
 - ## Screenshot
 
-![Game Play](screenshot.jpg)
+![Game Play](assets/screenshot.jpg)
 
 ## How to Run
 1. Clone the repository:
